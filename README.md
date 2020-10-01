@@ -76,10 +76,12 @@
 
 ### Social Media
 
+<br/>
+
 <a href="https://www.linkedin.com/in/lucaspazzim/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain-wordmark.svg"
-      alt="html5"
+      src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg"
+      alt="linkedin"
       width="40"
       height="40"
     />
