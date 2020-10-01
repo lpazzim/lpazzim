@@ -2,8 +2,8 @@
 
 
 <div  align="center">
-  <h2 style="margin:0"> Lucas Pazzim </h2>
-  <p style="margin:0"> front-end engineer </p>
+  <h2> Lucas Pazzim </h2>
+  <p> front-end engineer </p>
 </div>
 
 <div align="center">
