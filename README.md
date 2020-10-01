@@ -55,7 +55,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg"
       alt="css3"
@@ -63,7 +63,7 @@
       height="40"
     />
   </a>
-<a href="https://reactjs.org/" target="_blank">
+<a target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg"
       alt="html5"
@@ -74,3 +74,13 @@
 </p>
 
 
+### Social Media
+
+<a href="https://www.linkedin.com/in/lucaspazzim/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
