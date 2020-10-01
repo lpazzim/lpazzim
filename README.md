@@ -1,12 +1,12 @@
 
 
 
-<div  align="center">
+<div  align="left">
   <h2> Lucas Pazzim </h2>
   <p> front-end engineer </p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"     
