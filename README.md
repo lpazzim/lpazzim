@@ -1,10 +1,6 @@
+# Lucas Pazzim 
+### Front-end engineer 
 
-
-
-<div  align="left">
-  <h1> Lucas Pazzim </h1>
-  <h4> Front-end engineer </h4>
-</div>
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
