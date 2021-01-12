@@ -28,7 +28,7 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -53,7 +53,7 @@
   </a>
   <a target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg"
+      src="https://cdn.worldvectorlogo.com/logos/css3.svg"
       alt="css3"
       width="40"
       height="40"
@@ -84,7 +84,7 @@
 
 <a href="https://www.linkedin.com/in/lucaspazzim/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg"
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
       alt="linkedin"
       width="40"
       height="40"
