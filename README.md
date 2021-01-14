@@ -51,7 +51,7 @@
       height="40"
     />
   </a>
-  <a target="_blank">
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3">
     <img
       src="https://cdn.worldvectorlogo.com/logos/css3.svg"
       alt="css3"
