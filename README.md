@@ -1,10 +1,7 @@
 # Lucas Pazzim 
 ### Front-end engineer 
 
-<img
-src="[https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-estruturas-javascript_114360-743.jpg](https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-estruturas-javascript_114360-743.jpg)"
-alt="background"
-/>
+<img src="[https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-estruturas-javascript_114360-743.jpg](https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-estruturas-javascript_114360-743.jpg)" alt="background" />
 
 
 <div align="left">
