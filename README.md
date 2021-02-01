@@ -59,6 +59,16 @@
       height="40"
     />
   </a>
+  
+   <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
+      alt="angular"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3">
     <img
       src="https://cdn.worldvectorlogo.com/logos/css3.svg"
