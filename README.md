@@ -38,7 +38,7 @@
     href="https://www.typescriptlang.org/" target="_blank"
   >
     <img
-      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+      src=""
       alt="typescript"
       width="40"
       height="40"
