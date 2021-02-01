@@ -34,11 +34,9 @@
     />
   </a>
   
-  <a
-    href="https://www.typescriptlang.org/" target="_blank"
-  >
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img
-      src=""
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
       alt="typescript"
       width="40"
       height="40"
