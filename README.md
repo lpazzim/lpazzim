@@ -110,7 +110,7 @@
   
   <a href="https://www.npmjs.com/~lpazzim" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
       alt="npm"
       width="40"
       height="40"
