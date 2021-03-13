@@ -107,3 +107,12 @@
       height="40"
     />
   </a>
+  
+  <a href="https://www.npmjs.com/~lpazzim" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/npmjs/npmjs-ar21.svg"
+      alt="npm"
+      width="40"
+      height="40"
+    />
+  </a>
