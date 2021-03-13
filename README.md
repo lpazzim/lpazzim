@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<p align="center">
+  <span>
+    <img align="center" width="510" src="images/javascript-frameworks.svg" />
+  </a>
+</p>
+
 ### Languages and Tools
 
 <br/>
