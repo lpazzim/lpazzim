@@ -3,9 +3,7 @@
 ### Front-end engineer 
 
 <p align="center">
-  <span>
     <img align="center" width="510" src="images/javascript-frameworks.svg" />
-  </a>
 </p>
 
 <p align="center">
