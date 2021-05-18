@@ -22,6 +22,14 @@
   </a>
 </p>
 
+### About me
+
+- I'm passionate about technology and innovation.
+- Currently learning java and improving my frontend skills in React and Angular.
+- I’m looking forward to collaborating on innovation projects.
+- You can reach me on <a href="https://www.linkedin.com/in/lucaspazzim/">Linkedin</a>
+
+
 ### Languages and Tools
 
 <br/>
