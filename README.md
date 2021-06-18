@@ -83,7 +83,7 @@
   
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/css3.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
       alt="css3"
       width="40"
       height="40"
