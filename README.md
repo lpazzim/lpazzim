@@ -129,3 +129,10 @@
       height="40"
     />
   </a>
+  
+  
+  
+  <p align="left" >
+  <br/>
+    <a style="font-size:8px" href="https://storyset.com/web">Web illustrations by Storyset</a>
+  </p>
