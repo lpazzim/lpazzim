@@ -1,7 +1,6 @@
 
 
 <h1>Hi There, I'm Lucas Pazzim <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h4 style="margin-top: 0; margin-bottom: 0;">Front-end engineer</h4> 
 
 <p align="center">
     <img align="center" width="510" src="images/javascript-frameworks.svg" />
