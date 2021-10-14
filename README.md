@@ -112,7 +112,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lucaspazzim/" target="_blank">
+<a href="https://www.linkedin.com/in/lucaspazzim/?locale=en_US" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
       alt="linkedin"
