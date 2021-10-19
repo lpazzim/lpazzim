@@ -21,6 +21,13 @@
     />
   </a>
 </p>
+<p align="center">
+<img
+      align="center"
+      src="https://www.codewars.com/users/lpazzim/badges/small"
+    />
+</p>
+
 
 ### About me
 
