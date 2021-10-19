@@ -22,10 +22,12 @@
   </a>
 </p>
 <p align="center">
+     <a href="https://www.codewars.com/users/lpazzim">
 <img
       align="center"
       src="https://www.codewars.com/users/lpazzim/badges/small"
     />
+           </a>
 </p>
 
 
