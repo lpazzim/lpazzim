@@ -10,14 +10,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="140"
+      height="155"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpazzim&layout=compact&theme=react"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="140"
+      height="155"
       src="https://github-readme-stats.vercel.app/api?username=lpazzim&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=react"
     />
   </a>
