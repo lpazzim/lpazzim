@@ -1,6 +1,6 @@
 
 
-<h1>Hi There, I'm Lucas Pazzim <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h2>Hi There, I'm Lucas Pazzim <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
     <img align="center" width="510" src="images/javascript-frameworks.svg" />
