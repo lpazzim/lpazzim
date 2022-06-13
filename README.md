@@ -35,7 +35,7 @@
 ### About me
 
 - I'm passionate about technology and innovation.
-- Currently improving my frontend skills in React and Angular.
+- Currently improving my frontend skills in React.
 - I’m looking forward to collaborating on innovation projects.
 - You can reach me on <a style="font-weight: bold;" href="https://www.linkedin.com/in/lucaspazzim/">Linkedin.</a>
 
@@ -77,15 +77,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
       alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://angular.io/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
-      alt="angular"
       width="40"
       height="40"
     />
