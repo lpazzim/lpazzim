@@ -98,7 +98,7 @@
       height="40"
     />
   </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
       alt="html5"
