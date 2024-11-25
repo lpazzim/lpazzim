@@ -35,7 +35,7 @@
 ### About me
 
 I'm a Frontend Engineer with over six years of experience building fast, user-friendly applications with a focus on JavaScript, TypeScript, and, especially, React. I’m passionate about creating responsive and accessible interfaces and always aim to write clean, efficient code that stands up to high-performance demands. Over the years, I’ve worked closely with designers, product managers, and backend teams, helping to scale complex applications and deliver a seamless user experience. With a strong foundation in tools and frameworks like Redux, Next.js, SCSS, and Styled Components, I’m well-equipped to build web solutions that are not only scalable and efficient but also visually engaging and easy to use.
-- You can reach me on <a style="font-weight: bold;" href="https://www.linkedin.com/in/lucaspazzim/">Linkedin.</a>
+- You can reach me on <a style="font-weight: bold;" href="https://www.linkedin.com/in/lpazzim/">Linkedin.</a>
 
 
 ### Languages and Tools
